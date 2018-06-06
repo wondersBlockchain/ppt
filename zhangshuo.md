@@ -19,3 +19,7 @@
 * http://www.pptstore.net/    可以欣赏，不能下载
 * http://www.iconfont.cn/    可以下载矢量图标
 * http://699pic.com/?sem=1   可以下载高清无水印图片
+
+
+### 推荐课程
+网易云课堂的付费课程，教技巧的，秋叶的《工作型PPT应该这样做》
